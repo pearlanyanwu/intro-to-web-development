@@ -1,4 +1,4 @@
-CSC 317 - Intro to Software Development
+CSC 317 : Intro to Software Development
 
 Spring 2022 - San Francisco State University
 
