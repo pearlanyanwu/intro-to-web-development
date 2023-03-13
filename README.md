@@ -1,4 +1,4 @@
-# Course: CSC 317 - Intro to Web Software Development
+# CSC 317 - Intro to Web Software Development
 
 ### Spring 2022 - San Francisco State University
 
