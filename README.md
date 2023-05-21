@@ -10,7 +10,7 @@ The functions of this project are the following:
 3.  Search for a product using the search bar. (Products are searched for and grouped together by at least one character.)
 4.  Upload an image of their own. (User must be logged in to do this.)
 5.  Comment on a post. (User must be logged in to do this.)
-6.  Non-registered users can search for a product without being having an exisiting account or being logged in.
+6.  Non-registered users can search for a product without having an exisiting account or being logged in.
 
 * NOTE: The size of this file is too large to be displayed in the desired format. If you would like to watch this 10-minute demo, you may need to click "View raw", allow the file to download onto your device and then double-click it from your
 downloads folder.
