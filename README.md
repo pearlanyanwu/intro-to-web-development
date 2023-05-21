@@ -11,5 +11,5 @@ The functions of this project are the following:
 4.  Upload an image of their own. (User must be logged in to do this.)
 5.  Comment on a post. (User must be logged in to do this.)
 
-* Note: The size of this file is too large to be displayed in the desired format. If you would like to watch this 10-minute demo, you may need to click "View raw", allow the file to download onto your device and then double-click it from your
+* NOTE: The size of this file is too large to be displayed in the desired format. If you would like to watch this 10-minute demo, you may need to click "View raw", allow the file to download onto your device and then double-click it from your
 downloads folder.
