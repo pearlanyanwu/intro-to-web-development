@@ -1,4 +1,4 @@
-# CSC 317 - Intro to Web Development (HTML, CSS, JavaScript, SQL)
+# Intro to Web Development (HTML, CSS, JavaScript, SQL)
 
 ### Spring 2022 - San Francisco State University
 
