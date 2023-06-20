@@ -2,7 +2,7 @@
 
 ### Spring 2022 - San Francisco State University
 
-I created a semi-functional website that, if it were real, would sell birthstones as accessories.
+For my term project, I created a semi-functional website that, if it were real, would distribute birthstones as accessories.
 
 The functions of this project are the following:
 1.  Create a new account.
