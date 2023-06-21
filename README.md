@@ -12,4 +12,10 @@ The functions of this website are the following:
 - Unregistered users must be able to search for image posts.
 - Unregistered user must be able to view individual image posts.
 
-Notice: The size of this file is too large to be displayed in the desired format. If you would like to watch this 10-minute demo, you may need to click "View raw", allow the file to download onto your device and then double-click it from your downloads folder.
+Notice: The size of this file is larger than GitHub accepts.
+
+If you would like to watch this 10-minute demo, follow these steps:
+1. Select the file.
+2. Click "View raw" and allow the file to download onto your device.
+4. Open the file from your downloads folder.
+5. Enjoy!
