@@ -14,7 +14,7 @@ The functions of this website are the following:
 
 Notice: The size of this file is larger than GitHub accepts.
 
-If you would like to watch this 10-minute demo, follow these steps:
+To watch this 10-minute demo, please follow these steps:
 1. Select the file.
 2. Click "View raw" and allow the file to download onto your device.
 4. Open the file from your downloads folder.
