@@ -12,5 +12,6 @@ The functions of this website are the following:
 5.  Comment on a post. (User must be logged in to do this.)
 6.  Non-registered users can search for a product without having an exisiting account or being logged in.
 
-* NOTE: The size of this file is too large to be displayed in the desired format. If you would like to watch this 10-minute demo, you may need to click "View raw", allow the file to download onto your device and then double-click it from your
-downloads folder.
+* DISCLAIMER: Unfortunately, I lost the source code after the semester closed, but I was able to retreieve this demo that I recorded and uploaded just before the semester closed.
+*
+* The size of this file is too large to be displayed in the desired format. If you would like to watch this 10-minute demo, you may need to click "View raw", allow the file to download onto your device and then double-click it from your downloads folder.
