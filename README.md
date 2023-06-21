@@ -2,8 +2,6 @@
 
 ### Spring 2022 - San Francisco State University
 
-For my term project, I created a semi-functional website that, if it were real, would offer birthstones as accessories.
-
 The functions of this website are the following:
 1. Unregistered users must be able create a user account.
 2. Registered users must be able to log in.
