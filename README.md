@@ -3,7 +3,7 @@
 ### Spring 2022 - San Francisco State University
 
 The functions of this website are the following:
-1. Unregistered users must be able create a user account.
+- Unregistered users must be able create a user account.
 2. Registered users must be able to log in.
 3. Registered users must be able to log out.
 4. Registered users must be able to post an image.
