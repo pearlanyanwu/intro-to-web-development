@@ -2,7 +2,7 @@
 
 ### Spring 2022 - San Francisco State University
 
-Notice: The size of this file is larger than GitHub accepts.
+Note: The size of this file is larger than GitHub accepts.
 
 To watch this 10-minute demo, please follow these steps:
 1. Select the file.
